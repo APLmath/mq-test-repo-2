@@ -28,4 +28,4 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a demo CI
         run:
-          sleep 144
+          sleep 300
